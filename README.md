@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Sinzn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```haskell
 
-<!---
-Sinzt/Sinzt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+sinzq.github
+------------
+
+OS             •   Linux
+Where          •   aws, azure
+Language       •   py, html, css
+G-Mail         •   shivam.sinzh
+Notes          •   entering the new world developers.
+
+timesgroup.cloud
+sinzq.github.io
+
+```
