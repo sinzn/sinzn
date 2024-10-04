@@ -1,15 +1,14 @@
 ```haskell
 
-sinzq.github
+sinzn.github
 ------------
 
+Where          •   aws
 OS             •   Linux
-Where          •   aws, azure
-Language       •   py, html, css
+Language       •   js, html, css
 G-Mail         •   shivam.sinzh
 Notes          •   entering the new world developers.
 
-timesgroup.cloud
-sinzq.github.io
+sinzn.github.io
 
 ```
