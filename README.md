@@ -3,9 +3,9 @@
 sinzn.github
 ------------
 
-Where          •   aws
+Where          •   aws, github
 OS             •   Linux
-Language       •   js, html, css
+Language       •   js, python
 G-Mail         •   shivam.sinzh
 Notes          •   entering the new world developers.
 
