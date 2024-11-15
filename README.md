@@ -11,4 +11,4 @@ Notes          •   entering the new world developers.
 
 sinzn.github.io
 ```
-**[Sticky note](https://github.com/sinzn/stickyno)** - Description of the deployment tool, setup, and usage.
+**[Sticky note](https://sinzn.github.io/sticky_notes/)** - This is secured sticky note application using js projects
