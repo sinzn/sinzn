@@ -6,9 +6,9 @@ sinzn.github
 Where          •   aws, github
 OS             •   Linux
 Language       •   js, python
-G-Mail         •   shivam.sinzh
+G-Mail         •   sinzn.s
 Notes          •   entering the new world developers.
+Quote          •   Build Test deploy.
 
 sinzn.github.io
 ```
-**[Sticky note](https://sinzn.github.io/sticky_notes/)** - This is secured sticky note application using js projects
