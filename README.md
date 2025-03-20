@@ -12,7 +12,7 @@ Quote        •   Build Test deploy
 Profile      •   https://www.credly.com/users/shivam-singxh
 sinzn.github.io
 
-![image](https://github.com/user-attachments/assets/837712d2-10a1-47eb-8b09-a66a2c26aeeb)
-
-
 ```
+
+![image](https://github.com/user-attachments/assets/50cefbcd-fc30-4e29-bcd6-8ceea5407d67)
+
