@@ -13,5 +13,5 @@ sinzn.github.io
 
 ```
 
-![image](https://github.com/user-attachments/assets/50cefbcd-fc30-4e29-bcd6-8ceea5407d67)
+![image](https://github.com/user-attachments/assets/faa512dd-b853-4280-8144-f45f5ac0c3f7)
 
