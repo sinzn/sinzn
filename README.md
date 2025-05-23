@@ -1,15 +1,13 @@
 ```haskell
 
-sinzn.github
+Shivam-Singh.com
 ------------
 
 Where        •   aws, github
-OS           •   Linux
+OS           •   linux
 Language     •   js, python
 G-Mail       •   shivam.singxh
 Notes        •   For Everything having a reason 
-Profile      •   https://www.credly.com/users/shivam-singxh
-sinzn.github.io
 
 ```
 
