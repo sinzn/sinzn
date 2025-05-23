@@ -13,5 +13,4 @@ sinzn.github.io
 
 ```
 
-![image](https://github.com/user-attachments/assets/faa512dd-b853-4280-8144-f45f5ac0c3f7)
-
+[![certifi](https://github.com/user-attachments/assets/faa512dd-b853-4280-8144-f45f5ac0c3f7)](https://www.credly.com/users/shivam-singxh)
